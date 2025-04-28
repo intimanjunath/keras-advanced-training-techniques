@@ -12,7 +12,6 @@ Each section is clearly marked in the notebook with code examples, visualization
 ## 📌 Contents
 
 -  colab link : https://github.com/intimanjunath/keras-advanced-training-techniques/blob/main/assignment6_full_pipeline.ipynb 
-- [`README.md`](README.md) — this overview  
 - `/videos/assignment_walkthrough.mp4` — narrated screen‐capture of the notebook  
 
 ---
