@@ -19,7 +19,7 @@ Each section is clearly marked in the notebook with code examples, visualization
 
 ## 🎥 Video Walkthrough
 
-👉 [Watch the walkthrough](videos/assignment_walkthrough.mp4)
+👉 [Watch the walkthrough](https://youtu.be/FDhlInr3iDw)
 
 ---
 
